@@ -2,7 +2,7 @@
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-Allows the user to track a workout. Various attributes of the workout can be stored. The workouts are saved in a Mongo database.
+Allows the user to track a workout. Various attributes of the workout can be stored. I did the best I could.
 
 ## Description
 
